@@ -22,6 +22,26 @@ nav li {
     border-radius: 5px;
     text-align: center;
 }
+
+
+nav {
+  background-color: #ddd; 
+  padding: 10px 0;
+}
+
+
+nav a {
+  text-decoration: none;
+  color: #6a0dad; 
+}
+
+
+nav li {
+  padding: 15px 30px; 
+  margin: 0 10px; 
+  border-radius: 5px;
+}
+
   
  
   main {
